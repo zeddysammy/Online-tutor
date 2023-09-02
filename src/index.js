@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('version1 updated');
+console.log('version1 new updated');
